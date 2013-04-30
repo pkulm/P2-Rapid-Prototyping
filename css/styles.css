@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.nav{
+	margin: 0 auto;
+	width: 800px;
+	overflow: none;
+}
+
+.nav li{
+	float: left;
+	width: 33.33%;
+}
+
+.page-header {
+	margin: 0 auto;
+	width: 800px;
+	overflow: none;
+}
+
+.home-content {
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 800px;
+	overflow: none;
+}

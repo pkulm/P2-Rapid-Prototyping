@@ -2,8 +2,9 @@
 
 $(document).ready(function(){
 	$('.carousel').carousel({
-  interval: 500,
+  interval: 4000,
   pause: 'hover',
 })
-
+	$('blockquote').fadeOut(4000).fadeIn(2000);
+	
 });
